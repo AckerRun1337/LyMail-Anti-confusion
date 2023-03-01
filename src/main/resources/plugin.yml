@@ -1,0 +1,6 @@
+name: LyMail
+version: '${project.version}'
+main: lymail.main
+api-version: 1.15
+authors: [ Erika ]
+description: Erika
